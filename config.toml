@@ -1,0 +1,4 @@
+baseURL = "https://questbook.github.io/"
+languageCode = "en-us"
+title = "Questbook official blog"
+theme = "hugo-PaperMod"
