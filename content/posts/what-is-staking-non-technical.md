@@ -1,7 +1,7 @@
 ---
 title: "What Is Staking Non Technical"
 date: 2022-05-16T14:16:54+05:30
-draft: true
+draft: false
 ---
 ```
 Can you explain the economics behind the concept of staking from a non technical point of view?
