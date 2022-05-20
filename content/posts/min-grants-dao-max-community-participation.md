@@ -1,7 +1,7 @@
 ---
 title: "Minimum Grants DAO with Maximum Community Participation"
 date: 2022-05-20T15:26:44+05:30
-draft: true
+draft: false
 ---
 
 Community participation is wrongly interpretted as _vote on everything_. Many grants DAO use the same model to run, what becomes, an inefficient grants program. Here, after working with a dozen grant programs in the ecosystem, I'll lay out how you have a grant program that is both efficient and community driven. 
