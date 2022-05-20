@@ -1,7 +1,7 @@
 ---
 title: "I Don't Believe in Grants (the way they're run today)"
 date: 2022-05-20T13:21:44+05:30
-draft: true
+draft: false
 ---
 
 And not the other way around
