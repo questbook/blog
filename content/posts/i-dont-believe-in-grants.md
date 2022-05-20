@@ -4,8 +4,6 @@ date: 2022-05-20T13:21:44+05:30
 draft: false
 ---
 
-And not the other way around
-
 {{<tweet user="Flynnjamm" id="1525491125041123328">}}
 
 800 builders on Terra have lost their livelihood  - in the last 1 week. Builders are losing trust on betting their careers on a chain. Terra’s collapse has downstream effects that will affect every ecosystem. Developers are leaving, leave alone attracting new developers. Now is the time to focus. If you don’t involve the community to build trust among developers - the grant program will be unfruitful. 
