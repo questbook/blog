@@ -4,7 +4,7 @@ date: 2022-05-20T15:26:44+05:30
 draft: false
 ---
 
-Community participation is wrongly interpretted as _vote on everything_. Many grants DAO use the same model to run, what becomes, an inefficient grants program. Here, after working with a dozen grant programs in the ecosystem, I'll lay out how you have a grant program that is both efficient and community driven. 
+Community participation is wrongly interpretted as _vote on everything_. Many grants DAO use the same model to run, what becomes, an inefficient grants program. Here, after working with a dozen grant programs in the ecosystem, I'll lay out how you can have a grant program that is both efficient and community driven. 
 
 # Delegated Capital Allocators
 The grant program must be divided into specialized grant programs, each with its own budget. This could be for various verticals like NFTs projects, DeFi, Infrastructure, Dev Tooling etc. Each of these sub-grants-DAOs should be led by an allocator. This allocator has absolute control on how to disburse the grants. No 10 member grant committee that needs to sign off, no dozens of people the allocator needs to _consult_ before disbursing the grants. One person calling the shots on all the grants in their vertical.
