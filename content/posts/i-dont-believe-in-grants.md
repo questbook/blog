@@ -32,7 +32,7 @@ As long as the builder community is empowered, the chain is unruggable!
 
 - AAVE is doubling down — they have quadrupled their grants DAO budget to 6 million USD
     
-    ![Screenshot 2022-05-14 at 4.22.51 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82e24af9-3b0d-482b-9cd0-edc358443014/Screenshot_2022-05-14_at_4.22.51_PM.png)
+    ![Screenshot 2022-05-14 at 4.22.51 PM.png](../images/aave-grants-screenshot.png)
     
 {{<tweet user="HelloShreyas" id="1524243522513252353">}}
 
