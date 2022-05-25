@@ -3,7 +3,7 @@ title: "Gasless Smart Contract Wallet Implementation"
 date: 2022-05-25T16:33:15+05:30
 draft: false
 ---
-This implementation borrows from EIP 1776 and EIP 4337. However simplified for a the use case of letting a dapp onbard a user to their platform without having to pay for the gas or install a wallet. 
+This implementation borrows from [EIP 1776](https://eips.ethereum.org/EIPS/eip-1776) and [EIP 4337](https://eips.ethereum.org/EIPS/eip-4337). However, simplified for a the use case of letting a dapp onboard a user to their platform without having to pay for the gas or install a wallet. 
 
 # Assumptions
 - The Dapp that wants to subsidize the gas for the user is a central entity, ie. the relayer. We're not decentralizing the relayer network as proposed in [EIP 1613](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1613.md)
