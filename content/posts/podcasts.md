@@ -15,7 +15,10 @@ We've done multiple of these in the past. And they have been to the point, and n
 - Eli Ben-Sasson (cofounder, Starkware)
 - Brendan Farmer (cofounder, PolygonZero)
 - Alex Gluchowski (cofounder, Matterlabs/ZKSync)
-{{<tweet user="madhavanmalolan" id="1529035567941693441">}}
+### Youtube : 
+{{<youtube id="sW2vmhTtCFM">}}
+### Anchor.fm (Podcast) :
+{{<anchor id="ValidityZK-Rollups-with-Eli-Ben-Sasson-Starknet--Brendan-Farmer-PolygonZero--Alex-Gluchowski-ZKSync-e1j7qev">}}
 
 ## Wallets
 Guests 
