@@ -4,7 +4,7 @@ date: 2022-06-11T11:25:25+05:30
 draft: true
 ---
 
-We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*!
+We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*! _All_ the grants and bounties from Klaytn ecosystem will now be disbursed via Questbook.
 
 # What this means for the community
 ## Single Home
