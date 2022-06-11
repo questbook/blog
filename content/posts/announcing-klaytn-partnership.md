@@ -8,6 +8,8 @@ We are delighted to announce Questbook is now the official Grants and Bounty par
 
 Klaytn and Questbook join hands to find and fund the next Opensea!
 
+Previously, we had announced a [partnership with Polygon](https://twitter.com/0xPolygonDAO/status/1533108818820800513) to run their entire grants program using Questbook. We are delighted to have Klaytn join the mission of running an efficient grant & bounty program using Questbook.
+
 # What this means for the community
 ## Single Home
 All the grants and bounties from across Klaytn will all be accessible in one place - on the [Klaytn page on Questbook](#coming-soon)
