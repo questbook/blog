@@ -4,7 +4,9 @@ date: 2022-06-11T11:25:25+05:30
 draft: true
 ---
 
-We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*! _All_ the grants and bounties from Klaytn ecosystem will now be disbursed via Questbook.
+We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*! _All_ the grants and bounties from Klaytn ecosystem will now be disbursed via Questbook. Klaytn has a large grant program. Notably, helping Opensea [get off the ground](https://dappradar.com/blog/klaytn-2-0-to-boost-efforts-on-global-ecosystem-expansion) in the early days. 
+
+Klaytn and Questbook join hands to find and fund the next Opensea!
 
 # What this means for the community
 ## Single Home
