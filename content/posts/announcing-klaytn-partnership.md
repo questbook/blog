@@ -16,7 +16,7 @@ All the grants and bounties from across Klaytn will all be accessible in one pla
 The applicants will know exactly what is the status of their application. Everything will be open and _on-chain_. You can view the [dashboards here](#coming-soon) in real time.
 
 ## Faster turn around times
-Questbook gives super-powers to the people running the grants & bounty program. The process will be more streamlined and applicants will hear back about the next steps sooner. 
+Questbook gives super-powers to the people running the grants & bounty program. The process will be more streamlined and applicants will hear back about the next steps sooner. The grant program will be run, initially, by a three member team. Using Questbook, we'll ensure fast turn around time for applicants. 
 
 # Coming soon : Decentralized grants & bounties program
 We at Questbook are committed to help Klaytn progressively decentralize the entire grants & bounty program. Initially, the program will be run by members of the Klaytn Foundation, and a few hand picked members of the community. 
