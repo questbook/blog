@@ -4,7 +4,7 @@ date: 2022-06-11T11:25:25+05:30
 draft: true
 ---
 
-We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*! _All_ the grants and bounties from Klaytn ecosystem will now be disbursed via Questbook. Klaytn has a large grant program. Notably, helping Opensea [get off the ground](https://dappradar.com/blog/klaytn-2-0-to-boost-efforts-on-global-ecosystem-expansion) in the early days. 
+We are delighted to announce Questbook is now the official Grants and Bounty partner for *Klaytn*! Klaytn will be using [Questbook](https://questbook.xyz) to distribute bounties to developers around the world. Klaytn has a large grant program. Notably, helping Opensea [get off the ground](https://dappradar.com/blog/klaytn-2-0-to-boost-efforts-on-global-ecosystem-expansion) in the early days. 
 
 Klaytn and Questbook join hands to find and fund the next Opensea!
 
@@ -18,7 +18,7 @@ All the grants and bounties from across Klaytn will all be accessible in one pla
 The applicants will know exactly what is the status of their application. Everything will be open and _on-chain_. You can view the [dashboards here](#coming-soon) in real time.
 
 ## Faster turn around times
-Questbook gives super-powers to the people running the grants & bounty program. The process will be more streamlined and applicants will hear back about the next steps sooner. The grant program will be run, initially, by a three member team. Using Questbook, we'll ensure fast turn around time for applicants. 
+Questbook gives super-powers to the Klaytn bounty program. The process will be more streamlined and applicants will hear back about the next steps sooner. The grant program will be run, initially, by a three member team. Using Questbook, we'll ensure fast turn around time for applicants. 
 
 # Coming soon : Decentralized grants & bounties program
 We at Questbook are committed to help Klaytn progressively decentralize the entire grants & bounty program. Initially, the program will be run by members of the Klaytn Foundation, and a few hand picked members of the community. 
