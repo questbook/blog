@@ -11,6 +11,14 @@ We've done multiple of these in the past. And they have been to the point, and n
 
 > _"Thank you! You did a really great job hosting!"_ - Jin Chung (Cofounder, Rainbow)
 
+## Public Goods Funding
+- Karl Floersch (Founder, Optimism)
+- Kevin Owocki (Founder, Gitcoin)
+- Austin Griffith (Founder, BuildGuild & Scaffold Eth)
+
+{{<youtube id="Cyuz9o2mNdM">}}
+
+
 ## ZK Rollups
 - Eli Ben-Sasson (cofounder, Starkware)
 - Brendan Farmer (cofounder, PolygonZero)
@@ -19,6 +27,13 @@ We've done multiple of these in the past. And they have been to the point, and n
 {{<youtube id="sW2vmhTtCFM">}}
 ### Anchor.fm (Podcast) :
 {{<anchor id="ValidityZK-Rollups-with-Eli-Ben-Sasson-Starknet--Brendan-Farmer-PolygonZero--Alex-Gluchowski-ZKSync-e1j7qev">}}
+
+
+## The Merge
+- Madhavan Malolan (cofounder, Questbook)
+- Hosted by Shunya Finance
+
+{{<youtube id="38DNkSrP23c">}}
 
 ## Wallets
 Guests 
