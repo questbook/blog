@@ -1,0 +1,6 @@
+--2022-07-01 17:48:56--  https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3857bfe-1078-4dea-a91b-3c7c9d3a49dd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving s3.us-west-2.amazonaws.com (s3.us-west-2.amazonaws.com)... 52.218.247.208
+Connecting to s3.us-west-2.amazonaws.com (s3.us-west-2.amazonaws.com)|52.218.247.208|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2022-07-01 17:48:57 ERROR 400: Bad Request.
+
