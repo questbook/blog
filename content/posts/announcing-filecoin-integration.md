@@ -1,7 +1,7 @@
 ---
 title: "Announcing Filecoin Integration"
 date: 2022-06-14T16:47:25+05:30
-draft: true
+draft: false
 ---
 
 [Questbook](https://questbook.xyz) doesn't compromise on decentralization of the software stack. Questbook works with the best teams to push the boundaries of decentralized applications. As of today, we're proud to announce integration with Protocol Labs & Filecoin.
