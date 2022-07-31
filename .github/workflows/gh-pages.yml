@@ -14,6 +14,14 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          token: ${{ secrets.PERSONAL_TOKEN }}
+
+      - name: Config GitHub
+        run: |
+          echo -e "machine github.com\nlogin ${{ secrets.PERSONAL_TOKEN }}\npassword x-oauth-basic" > $HOME/.netrc
+          chmod 600 $HOME/.netrc
+          git config --global user.email "engineering@creatoros.co"
+          git config --global user.name "QuestBook CI Bot"
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -25,9 +33,11 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
-        with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          cd public
+          git add .
+          git commit -m "Deploy"
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
           external_repository: questbook/questbook.github.io
