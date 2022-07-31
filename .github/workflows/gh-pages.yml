@@ -38,4 +38,4 @@ jobs:
           cd public
           git add .
           git commit -m "Deploy"
-          git push
+          git push origin HEAD:gh-pages
