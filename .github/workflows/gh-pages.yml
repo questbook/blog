@@ -38,6 +38,4 @@ jobs:
           cd public
           git add .
           git commit -m "Deploy"
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./public
-          external_repository: questbook/questbook.github.io
+          git push
