@@ -28,19 +28,15 @@ in the folder `blog/`
 hugo
 ```
 ## Push
-### blog
+
 From `blog/`
 ```
 git add .
 git commit -m "added new blog title-of-your-blog"
 git push
 ```
-### public
-from `public`
-```
-git add .
-git commit -m "added new blog title-of-your-blog"
-git push
-```
+
+GH Actions will take care of the rest for you.
+
 ## Done!
 After ~2min check https://blog.questbook.xyz

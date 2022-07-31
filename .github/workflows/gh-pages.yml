@@ -37,5 +37,5 @@ jobs:
         run: |
           cd public
           git add .
-          git commit -m "Deploy"
+          git commit --allow-empty -m "Deploy"
           git push origin HEAD:gh-pages
