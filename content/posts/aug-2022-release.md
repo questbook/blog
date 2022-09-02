@@ -1,13 +1,13 @@
 ---
 title: "Launching Questbook v2 open beta"
 date: 2022-08-23T19:25:41+05:30
-draft: true
+draft: false
 ---
 
 Questbook's v2.0.1 doesn't only provide a great user experience for foundations to run their grant program and developers to apply to them - it sets a new all time high bar for web3 dapp UX. 
 
 # Context
-Foundations and DAOs grow the ecosystems via grants, bounties, partnerships, BD etc. These utilize funds from the _community_ allocation, aka the treasury. With Questbook, these processes can be run on-chain - giving complete transparency and accountability to the community on where and why funds are being deployed.  
+Foundations and DAOs grow the ecosystems via grants, bounties, partnerships, BD etc. These utilize funds from the _community_ allocation, aka the treasury. With Questbook, these processes can be run on-chain - giving complete transparency and accountability to the community on where and why funds are being deployed. Many of the top Foundations and DAOs have already created their domains on Questbook.
 
 If you've used our tool before, you'd know that every interaction on the product is an [onchain interaction](https://blog.questbook.xyz/posts/attract-builders-using-questbook/). Though this provided much more data transparency, it was a major step down in user experience. The user experience was definitively worse than using a Google Form.
 
@@ -21,10 +21,10 @@ As of today, the new experience is available on [gasless.questbook.app](https://
 Embedded in Questbook's latest release is an inbrowser app-specific wallet, called the Zero Wallet. This Zero Wallet, gives users a zero click login into Questbook. Also, this wallet is not responsible for any financial transactions. The wallet balance of the Zero Wallet is always zero.
 
 Users can now all of the following on chain, without paying gas!
-- Setup new DAOs
+- Setup new domains
 - Create grants, bounties, job openings etc
 - Review and evaluate applications
-- Invite team members to the DAO
+- Invite team members to the domain
 - Pay out the applicants
 
 Users don't need to install a browser wallet extension, don't need to know "which chain", don't need to pay gas - and still have all of their interactions recorded onchain, and be transparent to the community on how treasury capital is being deployed. 
@@ -59,9 +59,9 @@ Our major customers want to disburse money from the multisigs their foundation r
 
 With this update, we're not only able to support various safes, but we can now utilize the rich feature space they offer. We're no longer constrained by the functionality of the Questbook multi sig. 
 
-Most prominently, batching transactions. Users can now send funds from their multisig to multiple builders at once using batched multisig transactions. 
+Most prominently, batching transactions. Users can now send funds from their multisig to multiple builders at once using batched multisig transactions. It's a major boost in convenience, especially if there are a large number of applicants to a grant program.
 
-It's a major boost in convenience, especially if there are a large number of applicants to a grant program.
+Because we're using a multisig safe, we also allow you to payout in any/multiple currencies - unlike before where you had to fix the currency on day 1. 
 
 We're humbled to be building on the shoulders of giants like Gnosis, SPL Governance etc. It's a testament to permissionless, trustless composability.
 
@@ -79,27 +79,34 @@ With this release, users can share their dashboard with the community and share 
 
 And, as you'd expect, these data points are also completely customizable. Users can choose what graphs are relevant for their audience and customize (with a little code) what data should show up on their dashboards. 
 
-## Invite members to the DAO with onchain invite links
-Previously on Questbook, if you wanted to invite a user to your DAO, you'd need to whitelist their wallet address and ask them to login with that particular address. Yuck. 
+## Invite members to the domain with onchain invite links
+Previously on Questbook, if you wanted to invite a user to your domain, you'd need to whitelist their wallet address and ask them to login with that particular address. Yuck. 
 
-You can now create an invite link. The user just needs to tap on the link and accept an invite to the DAO. We're all used to this experience in Web2. But, it's not a trivial feat. This is a huge engineering win, because this invitation link is completely decentralized without storing a secret on databases as one would in a web2 product. 
+You can now create an invite link. The user just needs to tap on the link and accept an invite to the domain. We're all used to this experience in Web2. But, it's not a trivial feat. This is a huge engineering win, because this invitation link is completely decentralized without storing a secret on databases as one would in a web2 product. 
 
-If everything is to happen decentralized, on chain - it introduces a new attack vector of getting frontrun. If the invited user accepts an invite link by creating a transaction on chain, anyone else could look at that transaction in the mempool and frontrun the transaction, thereby getting themselves invited to the said DAO. 
+If everything is to happen decentralized, on chain - it introduces a new attack vector of getting frontrun. If the invited user accepts an invite link by creating a transaction on chain, anyone else could look at that transaction in the mempool and frontrun the transaction, thereby getting themselves invited to the said domain. 
 
 But not with this web3 native invite links which [we've written about before](https://blog.questbook.xyz/posts/questbook-invite-links/). 
+
+## More powerful reviewer tools
+Though all of the data is on chain - to keep the process transparent and accountable, some of the reviews might need to be kept private. This is possible now on the tool by toggling a simple button. All the reviews will still go on chain, but it will be encrypted. It will be encrypted in such a way that only the other reviewers will be able to decrypt it. And, as you'd expect by this point, all of this happens under the hood using the zero-wallet. So you'll not notice a thing about encryption and decryption of these reviews. 
+
+For power users a problem that came up again and again is that they have 100s of applicants every week. It got cumbersome to manually assign a reviewer each time an application came in. But with this release you can choose the reviewers who need to be allocated to incoming applications and one (or as many as you'd like) reviewer will get assigned to the application automatically. 
+
+The reviewer dashboard also got much cleaner, simpler and easy to use - so the reviewers always will know what applications they need to review in a clean view. 
 
 ## Ofcourse, there's more
 Above mentioned are the major changes that have gone in into this release. However, I do feel bad for a bunch of great fixes that have gone in that didn't make it to this list. 
 But here are some other fixes
 - A much simplified onboarding experience
 - Simpler navigation across the product
-- Landing pages for DAOs 
-- Sorting and filtering of DAOs on the home page
+- Landing pages for domains 
+- Sorting and filtering of domains on the home page
 
 ... damn, there are still a few smaller fixes that I don't have patience to list any more. 
 
 # Know someone who's running a grant program?
-If you or someone you know is running a grant program for their foundation or DAO, we'd love to onboard them directly into v2.0.1!
+If you or someone you know is running a grant program for their foundation or domain, we'd love to onboard them directly into v2.0.1!
 
 {{<typeform id="SCB3gvID">}}
 
