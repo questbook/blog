@@ -1,7 +1,7 @@
 ---
 title: "Interviewing Harsha on the CGP2.0 proposal "
 date: 2022-12-01T23:37:42+05:30
-draft: true
+draft: false
 ---
 
 # What is CGP2.0?
