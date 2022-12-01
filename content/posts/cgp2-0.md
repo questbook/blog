@@ -31,3 +31,5 @@ Yeah, we put up the post for a temp check in June 2022. However the work had sta
 Anyone with a comp token should go to the compound governance dashboard and cast their vote!
 
 [https://compound.finance/governance/proposals/136?target_network=mainnet](https://compound.finance/governance/proposals/136?target_network=mainnet)
+
+Vote now :)
