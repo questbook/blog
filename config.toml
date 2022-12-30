@@ -1,4 +1,4 @@
 baseURL = "https://blog.questbook.xyz/"
 languageCode = "en-us"
 title = "Questbook official blog"
-theme = "gohugo-theme-ananke"
+theme = "PaperMod"
