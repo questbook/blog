@@ -1,6 +1,0 @@
-[submodule "themes/gohugo-theme-ananke"]
-	path = themes/gohugo-theme-ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "public"]
-	path = public
-	url = https://github.com/questbook/questbook.github.io
